@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoluwaseyi&label=Profile%20views&color=0e75b6&style=flat" alt="xoluwaseyi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xoluwaseyi" alt="xoluwaseyi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devoluwaseyi" target="blank"><img src="https://img.shields.io/twitter/follow/devoluwaseyi?logo=twitter&style=for-the-badge" alt="devoluwaseyi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xoluwaseyi" target="blank"><img src="https://img.shields.io/twitter/follow/xoluwaseyi?logo=twitter&style=for-the-badge" alt="xoluwaseyi" /></a> </p>
+- 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with **a junior role**
+- 🤝 I’m actively open to **a junior role**
 
 - 👨‍💻 All of my projects are available at [https://seyiportfolio.netlify.app/#portfolio](https://seyiportfolio.netlify.app/#portfolio)
 
-- 📝 I regularly write articles on [devoluwaseyi.hashnode.dev](devoluwaseyi.hashnode.dev)
+- 📝 I regularly write articles on [https://hashnode.com/@devOluwaseyi](https://hashnode.com/@devOluwaseyi)
 
 - 📫 How to reach me **seyifagbemi211@gmail.com**
 
@@ -21,9 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xoluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xoluwaseyi" height="30" width="40" /></a>
+<a href="https://twitter.com/devoluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devoluwaseyi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/xoluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xoluwaseyi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/xoluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xoluwaseyi" height="30" width="40" /></a>
 <a href="https://hashnode.com/@devoluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devoluwaseyi" height="30" width="40" /></a>
 </p>
 
