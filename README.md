@@ -5,11 +5,11 @@
 <br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fagbemi Oluwaseyi</h1>
-<h3 align="center">I am a passionate (Junior) Frontend Engineer</h3>
+<h3 align="center">I am a passionate (Junior) Frontend Developer/Engineer</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning new technologies
 
 - 🤝 I’m actively open to **a junior role**
 
@@ -20,6 +20,8 @@
 - 📫 How to reach me **seyifagbemi211@gmail.com**
 
 - 📄 Know about my experiences [here](https://seyiportfolio.netlify.app/)
+
+- 📝 My [resume](https://drive.google.com/file/d/1gVXNnast6FCzrLjpUMbWJVgHs3LxFW9K/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love learning new things**
 
@@ -59,4 +61,4 @@
 <a href="https://github.com/xoluwaseyi?tab=followers"><img src="https://img.shields.io/github/followers/xoluwaseyi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## Connect with me on Twitter
-<p align="left"> <a href="https://twitter.com/devoluwaseyi" target="blank"><img src="https://img.shields.io/twitter/follow/devoluwaseyi?logo=twitter&style=for-the-badge" alt="devoluwaseyi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xoluwaseyi" target="blank"><img src="https://img.shields.io/twitter/follow/xoluwaseyi?logo=twitter&style=for-the-badge" alt="xoluwaseyi" /></a> </p>
