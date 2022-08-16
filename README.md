@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **any project.**
 
-- 🤝 I’m actively open to **frontend opportunities and a role**
+- 🤝 I’m actively open to **frontend engineer opportunities and roles.**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://seyiportfolio.netlify.app/#portfolio)
 
