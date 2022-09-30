@@ -11,19 +11,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **new technologies.**
 
 - 👯 I’m looking to collaborate on **any project.**
 
 - 🤝 I’m actively open to **frontend engineer opportunities and roles.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://seyiportfolio.netlify.app/#portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://oluwaseyi.brimble.app/#portfolio)
 
 - 📝 I regularly write articles on [Hashnode](https://xoluwaseyi.hashnode.dev/)
 
 - 📫 How to reach me **seyifagbemi211@gmail.com**
 
-- 📄 Know about my experiences [here](https://seyiportfolio.netlify.app/)
+- 📄 Know about my experiences [here](https://oluwaseyi.brimble.app/)
 
 - ⚡ Fun fact **I love learning new things**
 
