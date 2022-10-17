@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fagbemi Oluwaseyi</h1>
-<h3 align="center">I am a passionate Frontend Developer/Engineer</h3>
+<h3 align="center">I am a Frontend Developer and I love bringing web designs to life with my knowledge and technical skills of web technologies in accessible and responsive ways for better user experience.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -17,13 +17,13 @@
 
 - 🤝 I’m actively open to **frontend engineer opportunities and roles.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://oluwaseyi.brimble.app/#portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://seyiportfolio.netlify.app/#portfolio)
 
 - 📝 I regularly write articles on [Hashnode](https://xoluwaseyi.hashnode.dev/)
 
 - 📫 How to reach me **seyifagbemi211@gmail.com**
 
-- 📄 Know about my experiences [here](https://oluwaseyi.brimble.app/)
+- 📄 Know about my experiences [here](https://seyiportfolio.netlify.app/)
 
 - ⚡ Fun fact **I love learning new things**
 
