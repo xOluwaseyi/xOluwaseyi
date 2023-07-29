@@ -25,7 +25,7 @@
 
 - 📄 Here is my [resume.](https://drive.google.com/file/d/1FSyIabbUp-ssF4SfIKzCeN1tO7cWytcv/view)
 
-- ⚡ Fun fact **I love learning new things.**
+- ⚡ Fun fact: **I love learning new things.**
 
 
 <h3 align="left">Connect with me:</h3>
