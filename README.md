@@ -11,26 +11,26 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **new technologies.**
+# - 🌱 I’m currently learning **new technologies.** #
 
-- 👯 I’m looking to collaborate on **any project.**
+- 👯 I’m open to **collaborating and bringing ideas to life.**
 
-- 🤝 I’m actively open to **frontend engineer opportunities and roles.**
+- 🤝 I’m actively open to **frontend opportunities and roles.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio.](https://seyiportfolio.netlify.app/#projects)
+# - 👨‍💻 All of my projects are available at [My Portfolio.](https://seyiportfolio.netlify.app/#projects) #
 
 - 📝 I write articles on [Hashnode.](https://xoluwaseyi.hashnode.dev/)
 
 - 📫 Reach me via email: **seyifagbemi211@gmail.com**
 
-- 📄 Here is my [resume.](https://drive.google.com/file/d/1-nyUv70HlbtUg5ChyNwNsPEA2a598nns/view)
+# - 📄 Here is my [resume.](https://drive.google.com/file/d/1-nyUv70HlbtUg5ChyNwNsPEA2a598nns/view) #
 
 - ⚡ Fun fact: **I love learning new things.**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/xoluwaseyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xoluwaseyi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwaseyifagbemi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xoluwaseyi" height="30" width="40" />LinkedIn</a>
 </p>
 
 <br/>
