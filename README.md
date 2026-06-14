@@ -17,13 +17,11 @@
 
 - 🤝 I’m actively open to **frontend opportunities and roles.**
 
-# - 👨‍💻 All of my projects are available at [My Portfolio.](https://seyiportfolio.netlify.app/#projects) #
+- 👨‍💻 Here's [my portfolio.](https://seyifagbemi.vercel.app/)
 
 - 📝 I write articles on [Hashnode.](https://xoluwaseyi.hashnode.dev/)
 
 - 📫 Reach me via email: **seyifagbemi211@gmail.com**
-
-# - 📄 Here is my [resume.](https://drive.google.com/file/d/1-nyUv70HlbtUg5ChyNwNsPEA2a598nns/view) #
 
 - ⚡ Fun fact: **I love learning new things.**
 
