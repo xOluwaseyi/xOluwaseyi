@@ -17,7 +17,7 @@
 
 - 🤝 I’m actively open to **frontend opportunities and roles.**
 
-- 👨‍💻 Here's [my portfolio.](https://seyifagbemi.vercel.app/)
+- 👨‍💻 Here's [my portfolio.](https://seyifagbemi.me/)
 
 - 📝 I write articles on [Hashnode.](https://xoluwaseyi.hashnode.dev/)
 
